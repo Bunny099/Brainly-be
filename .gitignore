@@ -1,0 +1,4 @@
+node_modules
+dist
+mongodb url = mongodb+srv://jayeshkhuman121:yBWr0BLnkAggoI2V@cluster0.wq2fc.mongodb.net/secondbrain
+export const JWT_SECRET = "ahjd";
